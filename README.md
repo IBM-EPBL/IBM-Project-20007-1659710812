@@ -1,5 +1,6 @@
 ## IBM-Project-20007-1659710812
 # AI-powered Nutrition Analyzer for Fitness Enthusiasts
+![WhatsApp Image 2022-11-19 at 11 15 54](https://user-images.githubusercontent.com/68513622/202836473-2614d6be-f9e0-497c-aa49-dfb035de0d5f.jpeg)
 
 
 ### Team ID: PNT2022TMID20781
